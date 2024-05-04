@@ -743,7 +743,12 @@
   
   .Interest-item img:hover { filter: grayscale(0); }
   
-  
+  .Interest-name {
+   position: center;
+   color: var(--orange-yellow-crayola); 
+   padding-left: 55px;
+   padding-top: 10px;
+  }
   
   
   
